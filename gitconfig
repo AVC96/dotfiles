@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = audrey@speedinvest.com
+	name = Audrey Handem
